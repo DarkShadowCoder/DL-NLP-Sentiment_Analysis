@@ -8,10 +8,10 @@
   <li><a href="#">Credits et Documentation</a></li>
 </ol>
 
-<h1>Description du projet</h1>
+<h2>Description du projet</h2>
 
-<h1>Les algorithmes de Deep Learning</h1>
+<h2>Les algorithmes de Deep Learning</h2>
 
-<h1>Listes des notebooks</h1>
+<h2>Listes des notebooks</h2>
 
-<h1>Crédits et documentation</h1>
+<h2>Crédits et documentation</h2>
