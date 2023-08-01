@@ -1,5 +1,6 @@
 # DL-NLP-Sentiment_Analysis
 
+Depot de differents notebooks d'algorithmes de Deep learning specialisées dans l'analyse de sentiment et dans le traitement du langage naturel (NLP);
 <h1>Table des matières</h1>
 <ol>
   <li><a href="#">Description du projet</a></li>
@@ -15,3 +16,4 @@
 <h2>Listes des notebooks</h2>
 
 <h2>Crédits et documentation</h2>
+
